@@ -1,2 +1,2 @@
-# openmmlab-learn-exercise
+# OpenMMLab-Learn-Exercise
 openmmlab learn and exercise
