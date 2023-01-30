@@ -5,7 +5,7 @@
 
 # **[OpenMMLab-Learn-Exercise](https://github.com/isLinXu/OpenMMLab-Learn-Exercise)**
 
-[**Home**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/) | [**News**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#news) |[**Task**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#Task) | [**Projects**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#projects) | [**Research**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/) | [**Github**](https://github.com/isLinXu)
+[**Home**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/) | [**News**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#news) |[**Task**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#Task) | [**Projects**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#projects) | [**Research**](https://islinxu.github.io/OpenMMLab-Learn-Exercise/#Research) | [**Github**](https://github.com/isLinXu)
 
 ---
 
