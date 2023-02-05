@@ -32,3 +32,6 @@ openmmlab learn and exercise
 |  14  | 2月14日 |              学员&项目评审              |                                           |                                                              |                                              |
 |  15  |         |                                         |                                           |                                                              |                                              |
 
+### 学员手册
+
+- [学员手册](https://aicarrier.feishu.cn/docx/QMRzd0NoxokuKvxNfS3car1EnHh)
