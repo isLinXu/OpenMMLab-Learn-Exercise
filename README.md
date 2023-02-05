@@ -17,7 +17,7 @@ openmmlab learn and exercise
 | 序号 | 时间    |                  任务                   |                 课程笔记                  |                             课件                             |                     代码                     |
 | :--: | ------- | :-------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
 |  1   | 2月1日  | **计算机视觉之算法基础与OpenMMLab入门** | [note](./notes/01-AI实战营-第一课笔记.md) |  [slide](./slides/01计算机视觉算法基础与OpenMMLab介绍.pdf)  |                      -                       |
-|  2   | 2月2日  |    **计算机视觉之图像分类算法基础**     | [note](./notes/02-AI实战营-第二课笔记.md) |     [slide](./slides/02图像分类与 MMClassification.pdf)     |                      -                       |
+|  2   | 2月2日  |    **计算机视觉之图像分类算法基础**     | [note](./notes/02-AI实战营-第二课笔记.md) |     [slide](./slides/02图像分类与MMClassification.pdf)     |                      -                       |
 |  3   | 2月3日  |      计算机视觉之图像分类代码教学*      | [note](./notes/03-AI实战营-第三课笔记.md) | [slide](./slides/北京超算30区使用MMClassification训练花卉图片分类模型.pdf) | [source](./jupyter/MMCls_flower_train.ipynb) |
 |  4   | 2月4日  |                 作业日                  |                     -                     |                              -                               |           [hw1](./homework/mmcls)            |
 |  5   | 2月5日  |                 作业日                  |                     -                     |                              -                               |                      -                       |
