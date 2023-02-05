@@ -16,12 +16,16 @@
 
 ---
 
+<div  align="center">
+  <img src="./img/OpenMMLab-1.jpg"/>
+</div>
 
-![](https://img2023.cnblogs.com/blog/1571518/202302/1571518-20230202115351337-523975146.jpg)
 
 ## AI实战营
 
-![](https://img2023.cnblogs.com/blog/1571518/202302/1571518-20230203174116047-204135633.png)
+<div  align="center">
+  <img src="./img/ai-camp.png" width="640"/>
+</div>
 
 ### 课程计划
 
