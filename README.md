@@ -8,30 +8,79 @@ openmmlab learn and exercise
 
 ![](https://img2023.cnblogs.com/blog/1571518/202302/1571518-20230202115351337-523975146.jpg)
 
+
+
+## docs
+
+| 序号 |         名称         |                   说明                   |                         readthedocs                          |                         docs-online                          |
+| :--: | :------------------: | :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  1   |     **mmengine**     |     OpenMMLab 深度学习模型训练基础库     |    [pdf](./docs/mmengine-readthedocs-io-zh_CN-latest.pdf)    | [doc](https://mmengine.readthedocs.io/zh_CN/latest/index.html) |
+|  2   |       **mmcv**       |        OpenMMLab 计算机视觉基础库        |      [pdf](./docs/mmcv-readthedocs-io-zh_CN-latest.pdf)      |       [doc](https://mmcv.readthedocs.io/zh_CN/latest/)       |
+|  3   | **mmclassification** |         OpenMMLab 图像分类工具箱         | [pdf](./docs/mmclassification-readthedocs-io-zh_CN-latest.pdf) | [doc](https://mmclassification.readthedocs.io/zh_CN/latest/) |
+|  4   |   **mmdetection**    |         OpenMMLab 目标检测工具箱         |  [pdf](./docs/mmdetection-readthedocs-io-zh_CN-latest.pdf)   |   [doc](https://mmdetection.readthedocs.io/zh_CN/latest/)    |
+|  5   |  **mmdetection3d**   |   OpenMMLab 新一代通用 3D 目标检测平台   | [pdf](./docs/mmdetection3d-readthedocs-io-zh_CN-latest.pdf)  |   [doc](https://mmdetection.readthedocs.io/zh_CN/latest/)    |
+|  6   |      **mmyolo**      |        OpenMMLab YOLO 系列工具箱         |     [pdf](./docs/mmyolo-readthedocs-io-zh_CN-latest.pdf)     |      [doc](https://mmyolo.readthedocs.io/zh_CN/latest/)      |
+|  7   |  **mmsegmentation**  |         OpenMMLab 语义分割工具箱         | [pdf](./docs/mmsegmentation-readthedocs-io-zh_CN-latest.pdf) |  [doc](https://mmsegmentation.readthedocs.io/zh_CN/latest/)  |
+|  8   |      **mmocr**       |       全流程文字检测识别理解工具包       |       [pdf](./docs/mmocr-readthedocs-io-en-latest.pdf)       |      [doc](https://mmocr.readthedocs.io/zh_CN/latest/)       |
+|  9   |      **mmpose**      |         OpenMMLab 姿态估计工具箱         |     [pdf](./docs/mmpose-readthedocs-io-zh_CN-latest.pdf)     |      [doc](https://mmpose.readthedocs.io/zh_CN/latest/)      |
+|  10  |    **mmtracking**    |     OpenMMLab 一体化视频目标感知平台     |   [pdf](./docs/mmtracking-readthedocs-io-zh_CN-latest.pdf)   |    [doc](https://mmtracking.readthedocs.io/zh_CN/latest/)    |
+|  11  |    **mmediting**     |       OpenMMLab 图像视频编辑工具箱       |   [pdf](./docs/mmediting-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmediting.readthedocs.io/zh_CN/latest/)     |
+|  12  |      **mmflow**      |    OpenMMLab 光流估计工具箱与测试基准    |      [pdf](./docs/mmflow-readthedocs-io-en-latest.pdf)       |      [doc](https://mmflow.readthedocs.io/zh_CN/latest/)      |
+|  13  |    **mmhuman3d**     | OpenMMLab 人体参数化模型工具箱与测试基准 |     [pdf](./docs/mmhuman3d-readthedocs-io-en-latest.pdf)     |    [doc](https://mmhuman3d.readthedocs.io/zh_CN/latest/)     |
+|  14  |     **mmrazor**      |    OpenMMLab 模型压缩工具箱与测试基准    |      [pdf](./docs/mmrazor-readthedocs-io-en-latest.pdf)      |     [doc](https://mmrazor.readthedocs.io/zh_CN/latest/)      |
+|  15  |     **mmrotate**     |   OpenMMLab 旋转框检测工具箱与测试基准   | [pdf](./docs/mmrotate-readthedocs-io-zh_CN-zh_CN-latest.pdf) |     [doc](https://mmrotate.readthedocs.io/zh_CN/latest/)     |
+|  16  |    **mmselfsup**     |   OpenMMLab 自监督学习工具箱与测试基准   |   [pdf](./docs/mmselfsup-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmselfsup.readthedocs.io/zh_CN/latest/)     |
+|  17  |    **mmaction2**     |      OpenMMLab 新一代视频理解工具箱      |   [pdf](./docs/mmaction2-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmaction2.readthedocs.io/zh_CN/latest/)     |
+|  18  |    **mmfewshot**     |   OpenMMLab 少样本学习工具箱与测试基准   | [pdf](./docs/mmfewshot-readthedocs-io-zh_CN-latest.pdf.pdf)  |    [doc](https://mmfewshot.readthedocs.io/zh_CN/latest/)     |
+|  19  |     **mmdeploy**     |          OpenMMLab 模型部署框架          |                                                              | [doc](https://mmdeploy.readthedocs.io/zh_CN/latest/index.html) |
+|  20  |      **mmeval**      |       OpenMMLab 机器学习算法评测库       |                                                              | [doc](https://mmeval.readthedocs.io/zh_CN/latest/index.html) |
+|  21  |   **mmgeneration**   |     OpenMMLab 图片视频生成模型工具箱     |                                                              |   [doc](https://mmgeneration.readthedocs.io/zh_CN/latest/)   |
+|      |                      |                                          |                                                              |                                                              |
+
+
+
+## community
+
+### cvpr2021
+
+
+
+### cvpr2022
+
+
+
+
+
+
+
 ## AI实战营
 
 ![](https://img2023.cnblogs.com/blog/1571518/202302/1571518-20230203174116047-204135633.png)
 
 ### 课程计划
 
-| 序号 | 时间    |                  任务                   |                 课程笔记                  |                             课件                             |                     代码                     |
-| :--: | ------- | :-------------------------------------: | :---------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
-|  1   | 2月1日  | **计算机视觉之算法基础与OpenMMLab入门** | [note](./notes/01-AI实战营-第一课笔记.md) |  [slide](./slides/01计算机视觉算法基础与OpenMMLab介绍.pdf)  |                      -                       |
-|  2   | 2月2日  |    **计算机视觉之图像分类算法基础**     | [note](./notes/02-AI实战营-第二课笔记.md) |     [slide](./slides/02图像分类与MMClassification.pdf)     |                      -                       |
-|  3   | 2月3日  |      计算机视觉之图像分类代码教学*      | [note](./notes/03-AI实战营-第三课笔记.md) | [slide](./slides/北京超算30区使用MMClassification训练花卉图片分类模型.pdf) | [source](./jupyter/MMCls_flower_train.ipynb) |
-|  4   | 2月4日  |                 作业日                  |                     -                     |                              -                               |           [hw1](./homework/mmcls)            |
-|  5   | 2月5日  |                 作业日                  |                     -                     |                              -                               |                      -                       |
-|  6   | 2月6日  |    **计算机视觉之目标检测算法基础**     |                                           |                                                              |                                              |
-|  7   | 2月7日  |          MMDetection代码教学*           |                                           |                                                              |                                              |
-|  8   | 2月8日  |                 作业日                  |                                           |                                                              |                                              |
-|  9   | 2月9日  |    **计算机视觉之图像分割算法基础**     |                                           |                                                              |                                              |
-|  10  | 2月10日 |         MMSegmentation代码教学*         |                                           |                                                              |                                              |
-|  11  | 2月11日 |              学员&项目评审              |                                           |                                                              |                                              |
-|  12  | 2月12日 |              学员&项目评审              |                                           |                                                              |                                              |
-|  13  | 2月13日 |              学员&项目评审              |                                           |                                                              |                                              |
-|  14  | 2月14日 |              学员&项目评审              |                                           |                                                              |                                              |
-|  15  |         |                                         |                                           |                                                              |                                              |
+| 序号 | 时间    |                  任务                   |                          课程笔记                           |                        在线阅读                         |                             课件                             |                     代码                     |
+| :--: | ------- | :-------------------------------------: | :---------------------------------------------------------: | :-----------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------: |
+|  1   | 2月1日  | **计算机视觉之算法基础与OpenMMLab入门** |  [note](./notes/AI实战营-基础班/01-AI实战营-第一课笔记.md)  | [read](https://www.cnblogs.com/isLinXu/p/17082475.html) | [slide](./slides/AI实战营-基础班/01计算机视觉算法基础与OpenMMLab介绍.pdf) |                      -                       |
+|  2   | 2月2日  |    **计算机视觉之图像分类算法基础**     |  [note](./notes/AI实战营-基础班/02-AI实战营-第二课笔记.md)  | [read](https://www.cnblogs.com/isLinXu/p/17090581.html) | [slide](./slides/AI实战营-基础班/02图像分类与MMClassification.pdf) |                      -                       |
+|  3   | 2月3日  |      计算机视觉之图像分类代码教学*      |  [note](./notes/AI实战营-基础班/03-AI实战营-第三课笔记.md)  | [read](https://www.cnblogs.com/isLinXu/p/17092668.html) | [slide](./slides/AI实战营-基础班/北京超算30区使用MMClassification训练花卉图片分类模型.pdf) | [source](./jupyter/MMCls_flower_train.ipynb) |
+|  4   | 2月4日  |                 作业日                  |                              -                              |                          read                           |                              -                               |           [hw1](./homework/mmcls)            |
+|  5   | 2月5日  |                 作业日                  |                              -                              |                            -                            |                              -                               |                      -                       |
+|  6   | 2月6日  |    **计算机视觉之目标检测算法基础**     | [note]((./notes/AI实战营-基础班/04-AI实战营-第四课笔记.md)) | [read](https://www.cnblogs.com/isLinXu/p/17096949.html) | [slide](./slides/AI实战营-基础班/03目标检测与MMDetection.pdf) |                      -                       |
+|  7   | 2月7日  |          MMDetection代码教学*           |                                                             |                                                         |                                                              |                                              |
+|  8   | 2月8日  |                 作业日                  |                                                             |                                                         |                                                              |                                              |
+|  9   | 2月9日  |    **计算机视觉之图像分割算法基础**     |                                                             |                                                         |                                                              |                                              |
+|  10  | 2月10日 |         MMSegmentation代码教学*         |                                                             |                                                         |                                                              |                                              |
+|  11  | 2月11日 |              学员&项目评审              |                                                             |                                                         |                                                              |                                              |
+|  12  | 2月12日 |              学员&项目评审              |                                                             |                                                         |                                                              |                                              |
+|  13  | 2月13日 |              学员&项目评审              |                                                             |                                                         |                                                              |                                              |
+|  14  | 2月14日 |              学员&项目评审              |                                                             |                                                         |                                                              |                                              |
+|  15  |         |                                         |                                                             |                                                         |                                                              |                                              |
 
 ### 学员手册
 
 - [学员手册](https://aicarrier.feishu.cn/docx/QMRzd0NoxokuKvxNfS3car1EnHh)
+
+
+
+## 
