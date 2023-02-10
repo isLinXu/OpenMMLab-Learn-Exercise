@@ -31,7 +31,7 @@ openmmlab learn and exercise
 |  15  |     **mmrotate**     |   OpenMMLab 旋转框检测工具箱与测试基准   | [pdf](./docs/mmrotate-readthedocs-io-zh_CN-zh_CN-latest.pdf) |     [doc](https://mmrotate.readthedocs.io/zh_CN/latest/)     |
 |  16  |    **mmselfsup**     |   OpenMMLab 自监督学习工具箱与测试基准   |   [pdf](./docs/mmselfsup-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmselfsup.readthedocs.io/zh_CN/latest/)     |
 |  17  |    **mmaction2**     |      OpenMMLab 新一代视频理解工具箱      |   [pdf](./docs/mmaction2-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmaction2.readthedocs.io/zh_CN/latest/)     |
-|  18  |    **mmfewshot**     |   OpenMMLab 少样本学习工具箱与测试基准   | [pdf](./docs/mmfewshot-readthedocs-io-zh_CN-latest.pdf.pdf)  |    [doc](https://mmfewshot.readthedocs.io/zh_CN/latest/)     |
+|  18  |    **mmfewshot**     |   OpenMMLab 少样本学习工具箱与测试基准   |   [pdf](./docs/mmfewshot-readthedocs-io-zh_CN-latest.pdf)    |    [doc](https://mmfewshot.readthedocs.io/zh_CN/latest/)     |
 |  19  |     **mmdeploy**     |          OpenMMLab 模型部署框架          |                                                              | [doc](https://mmdeploy.readthedocs.io/zh_CN/latest/index.html) |
 |  20  |      **mmeval**      |       OpenMMLab 机器学习算法评测库       |                                                              | [doc](https://mmeval.readthedocs.io/zh_CN/latest/index.html) |
 |  21  |   **mmgeneration**   |     OpenMMLab 图片视频生成模型工具箱     |                                                              |   [doc](https://mmgeneration.readthedocs.io/zh_CN/latest/)   |
@@ -43,11 +43,25 @@ openmmlab learn and exercise
 
 ### cvpr2021
 
-
+| 序号 |                             名称                             |             说明             |                            slides                            |
+| :--: | :----------------------------------------------------------: | :--------------------------: | :----------------------------------------------------------: |
+|  1   |    An Open-Source Algorithm for Computer Vision-Kai Chen     |     计算机视觉的开源算法     | [pdf](./community/1-cvpr2021-tutorial/An_Open-Source_Algorithm_for_Computer_Vision-Kai_Chen_.pdf) |
+|  2   | Automatic loss function design for generic vision tasks-Jifeng Dai | 通用视觉任务自动损失函数设计 | [pdf](./community/1-cvpr2021-tutorial/Automatic_loss_function_design_for_generic_vision_tasks-Jifeng_Dai.pdf) |
+|  3   |   Designing Object Detectors with MMDetection-Alan Yuille    | 用mmdetection设计对象检测器  | [pdf](./community/1-cvpr2021-tutorial/Designing_Object_Detectors_with_MMDetection-Alan_Yuille.pdf) |
+|  4   | Generative Latent Bank for Large-Factor Image Super-Resolution（Chen Change Loy） |      图像超分辨率生成库      | [pdf](./community/1-cvpr2021-tutorial/Generative_Latent_Bank_for_Large-Factor_Image_Super-Resolution（Chen_Change_Loy）.pdf) |
+|  5   | Real-time Instance Segmentation with the YOLACT Family-Yong Jae Lee | 基于YOLACT家族的实时实例分割 | [pdf](./community/1-cvpr2021-tutorial/Real-time_Instance_Segmentation_with_the_YOLACT_Family-Yong_Jae_Lee.pdf) |
+|  6   |    Towards a New Level of Action Understanding-Dahua Lin     |     迈向行动理解的新水平     | [pdf](./community/1-cvpr2021-tutorial/Towards_a_New_Level_of_Action_Understanding-Dahua_Lin.pdf) |
+|  7   |   Using OpenMMLab to Accelerate Your Research-Wenwei Zhang   |    使用OpenMMLab加速研究     | [pdf](./community/1-cvpr2021-tutorial/Using_OpenMMLab_to_Accelerate_Your_Research-Wenwei_Zhang.pdf) |
 
 ### cvpr2022
 
-
+| 序号 |                 名称                  |     说明      |                            slides                            |
+| :--: | :-----------------------------------: | :-----------: | :----------------------------------------------------------: |
+|  1   | Chen_Change Loy **Super-resolution**  |   超分辨率    | [pdf](./community/2-cvpr2022-tutorial/Chen_Change_Loy___Super-resolution.pdf) |
+|  2   |       Han_Hu **Convergence_AI**       | 融合人工智能  | [pdf](./community/2-cvpr2022-tutorial/Han_Hu___Convergence_AI.pdf) |
+|  3   |   Hang_Zhao **Autonomous_Driving**    |   自动驾驶    | [pdf](./community/2-cvpr2022-tutorial/Hang_Zhao___Autonomous_Driving.pdf) |
+|  4   | Haodong_Duan **Action_Understanding** |   行为理解    | [pdf](./community/2-cvpr2022-tutorial/Haodong_Duan___Action_Understanding.pdf) |
+|  5   |  Kai_Chen **Overview_of_OpenMMLab**   | OpenMMLab概述 | [pdf](./community/2-cvpr2022-tutorial/Kai_Chen___Overview_of_OpenMMLab.pdf) |
 
 
 
