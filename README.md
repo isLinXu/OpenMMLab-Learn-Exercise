@@ -12,6 +12,9 @@ openmmlab learn and exercise
 
 ## docs
 
+<details>
+<summary>点击展开</summary>
+
 | 序号 |         名称         |                   说明                   |                         readthedocs                          |                         docs-online                          |
 | :--: | :------------------: | :--------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |     **mmengine**     |     OpenMMLab 深度学习模型训练基础库     |    [pdf](./docs/mmengine-readthedocs-io-zh_CN-latest.pdf)    | [doc](https://mmengine.readthedocs.io/zh_CN/latest/index.html) |
@@ -37,9 +40,12 @@ openmmlab learn and exercise
 |  21  |   **mmgeneration**   |     OpenMMLab 图片视频生成模型工具箱     |                                                              |   [doc](https://mmgeneration.readthedocs.io/zh_CN/latest/)   |
 |      |                      |                                          |                                                              |                                                              |
 
-
+</details>
 
 ## community
+
+<details>
+<summary>点击展开</summary>
 
 ### cvpr2021
 
@@ -63,7 +69,7 @@ openmmlab learn and exercise
 |  4   | Haodong_Duan **Action_Understanding** |   行为理解    | [pdf](./community/2-cvpr2022-tutorial/Haodong_Duan___Action_Understanding.pdf) |
 |  5   |  Kai_Chen **Overview_of_OpenMMLab**   | OpenMMLab概述 | [pdf](./community/2-cvpr2022-tutorial/Kai_Chen___Overview_of_OpenMMLab.pdf) |
 
-
+</details>
 
 
 
