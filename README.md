@@ -71,6 +71,7 @@ openmmlab learn and exercise
 
 <details>
 <summary>点击展开</summary>
+
 ![](https://img2023.cnblogs.com/blog/1571518/202302/1571518-20230203174116047-204135633.png)
 ### 课程计划
 | 序号 | 时间    |                  任务                   |                         课程笔记                          |                        在线阅读                         |                             课件                             |                             代码                             |
@@ -92,7 +93,9 @@ openmmlab learn and exercise
 |  15  |         |                                         |                                                           |                                                         |                                                              |                                                              |
 ### 学员手册
 - [学员手册](https://aicarrier.feishu.cn/docx/QMRzd0NoxokuKvxNfS3car1EnHh)
+
 </details>
+
 
 
 ## AI实战营|第二期
